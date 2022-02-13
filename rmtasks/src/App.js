@@ -1,13 +1,15 @@
 import './App.css';
-import Dishwasher from './Components/Tasks';
+import Tasks from './Components/Tasks';
+import React from 'react';
 
 function App() {
   return (
     <div className="App">
-     <h1>Room Mate Tasks</h1>
 
-     <Dishwasher/>
 
+    <h1>Room Mate Tasks</h1>
+
+    <Tasks/>
 
     </div>
   );
