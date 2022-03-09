@@ -1,9 +1,9 @@
 # RoomMateTasks
 
 <h2>Tech Stack</h2>
-- React
-- React BootStrap
-- React Toggle Component
+- React</br>
+- React BootStrap</br>
+- React Toggle Component</br>
 - Back end Express (in progress)
 
 
